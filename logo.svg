@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 128 128" role="img" aria-label="SimpleSite logo">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#6aa7ff"/>
+      <stop offset="100%" stop-color="#428dff"/>
+    </linearGradient>
+  </defs>
+  <rect rx="22" ry="22" x="6" y="6" width="116" height="116" fill="#141925" stroke="#263045" stroke-width="4"/>
+  <g transform="translate(64 64)">
+    <circle r="38" fill="url(#g)"/>
+    <text x="0" y="10" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="36" fill="#ffffff" font-weight="700">SS</text>
+  </g>
+</svg>
+
